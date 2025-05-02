@@ -92,7 +92,7 @@ Visualization techniques such as PCA (Principal Component Analysis) helped analy
 
 ---
 
-## Acknowledgments
+### Acknowledgments
 
 I would like to express my sincere gratitude to my professors, **Grozavu**, **Nistor**, **Jen**, **Tao Yuan**, and **Dimitris Kotzinos**, for their invaluable guidance and support throughout my data science studies at CY Cergy Paris. Their expertise and encouragement have been instrumental in my academic development and in the successful completion of these labs. 
 
